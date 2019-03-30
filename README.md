@@ -2,9 +2,7 @@
 
 ## Background (Pyber)
 
-![Ride](Images/Ride.png)
-
-Using Pandas & Matplot to analyze this CSV file. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
+Using Pandas & Matplot to analyze this Pyber's CSV file. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
 
 * Average Fare ($) Per City
